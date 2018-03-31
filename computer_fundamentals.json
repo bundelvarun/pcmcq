@@ -1,0 +1,277 @@
+﻿{
+  "list_Mcq": [
+	{
+	"question": "What is a computer? ",
+	"optiona": "(A) Electronic machine ",
+	"optionb": "(B) Power machine ",
+	"optionc": "(C) Electric machine ",
+	"optiond": "(D) All of these ",
+	"ans": "A"
+	},
+	
+	{
+	"question": "A ........... is an electronic device that processes data and converts it into information? ",
+	"optiona": "(A) Computer ",
+	"optionb": "(B) Processor",
+	"optionc": "(C) Case ",
+	"optiond": "(D) Styles",
+	"ans": "A"
+
+	},
+	
+	{
+	"question": "Capacity of computer is ",
+	"optiona": "(A) Limited",
+	"optionb": "(B) Unlimited ",
+	"optionc": "(C) Low ",
+	"optiond": "(D) High",
+	"ans": "A"
+	},
+	
+	{
+
+	"question": "Computer is named as ........ intelligence. ",
+	"optiona": "(A) pure",
+	"optionb": "(B) human",
+	"optionc": "(C) artificial ",
+	"optiond": "(D) all",
+	"ans": "C"
+		},
+	
+	{
+	"question": "A computer cannot 'boot' if it does not have the. ",
+	"optiona": "(A) Compiler ",
+	"optionb": "(B) Loader",
+	"optionc": "(C) Operating System  ",
+	"optiond": "(D) Assembler",
+	"ans": "C"
+
+	},
+	
+	{
+	"question": "........ is called brain of computer",
+	"optiona": "(A) CPU",
+	"optionb": "(B) Monitor",
+	"optionc": "(C) Modem ",
+	"optiond": "(D) Software",
+	"ans": "A"
+	},
+	
+	{
+	"question": "Basic operation done by computer is",
+	"optiona": "(A) Arithmetic operation ",
+	"optionb": "(B) Logical operation ",
+	"optionc": "(C) Data storage",
+	"optiond": "(D) All ",
+	"ans": "D"
+
+	},
+	
+	{
+	"question": "'C' in CPU denotes ......",
+	"optiona": "(A) Central",
+	"optionb": "(B) Common",
+	"optionc": "(C) Convenient ",
+	"optiond": "(D) Computer ",
+	"ans": "A"
+	},
+	
+	{
+	"question": "CPU Stands for",
+	"optiona": "(A) Cover processing unit ",
+	"optionb": "(B) Control processing unit ",
+	"optionc": "(C) Central processing unit",
+	"optiond": "(D) All ",
+	"ans": "C"
+	},
+	
+	{
+	"question": "Main component of CPU is",
+	"optiona": "(A) Control unit ",
+	"optionb": "(B) Memory",
+	"optionc": "(C) ALU ",
+	"optiond": "(D) All",
+	"ans": "D"
+	},
+	
+	{
+	"question": "Function of CPU is",
+	"optiona": "(A) Control input and output device ",
+	"optionb": "(B) Immediate storage of data ",
+	"optionc": "(C) Read the instruction and give command ",
+	"optiond": "(D) All",
+	"ans": "D"
+	},
+	
+	{
+
+	"question": "Input is modified into output by",
+	"optiona": "(A) Peripherals ",
+	"optionb": "(B) Memory",
+	"optionc": "(C) Storage ",
+	"optiond": "(D) CPU",
+	"ans": "D"
+	},
+	
+	{
+	"question": "Part of CPU which coordinates all functions of computer and other components ",
+	"optiona": "(A) Mother board ",
+	"optionb": "(B) Coordination board ",
+	"optionc": "(C) Control unit ",
+	"optiond": "(D) ALU",
+	"ans": "C"
+	},
+	
+	{
+
+	"question": "Which is a part of CPU?",
+	"optiona": "(A) Key board ",
+	"optionb": "(B) Printer",
+	"optionc": "(C) Tape ",
+	"optiond": "(D) ALU",
+	"ans": "D"
+	},
+	
+	{
+	"question": "ALU Stands for",
+	"optiona": "(A) Arithmetic logic unit",
+	"optionb": "(B) Arithmetic large unit ",
+	"optionc": "(C) Arithmetic long unit",
+	"optiond": "(D) All ",
+	"ans": "A"
+	},
+	
+	{
+	"question": "Which part of the computer is used for calculating and comparing?",
+	"optiona": "(A) ALU",
+	"optionb": "(B) Control unit ",
+	"optionc": "(C) Disk unit ",
+	"optiond": "(D) Modem",
+	"ans": "A"
+
+	},
+	
+	{
+
+	"question": "The ................ is responsible for performing calculations and contains decision-making mechanisms. ",
+	"optiona": "(A) Central Processing Unit",
+	"optionb": "(B) Memory unit",
+	"optionc": "(C) Arithmetic and Logic Unit",
+	"optiond": "(D) Output Unit ",
+	"ans": "C"
+	},
+	
+	{
+
+	"question": "Data going to computer is called?",
+	"optiona": "(A) Operate",
+	"optionb": "(B) Algorithm ",
+	"optionc": "(C) Input ",
+	"optiond": "(D) Calculation ",
+	"ans": "C"
+	},
+	
+	{
+	"question": "Computer ............ is whatever is typed, submitted, or transmitted to a computer system",
+	"optiona": "(A) input",
+	"optionb": "(B) output",
+	"optionc": "(C) data ",
+	"optiond": "(D) circuit",
+	"ans": "A"
+	},
+	{
+	"question": "What can be the form of data ? ",
+	"optiona": "(A) Written",
+	"optionb": "(B) Unwritten",
+	"optionc": "(C) Visual ",
+	"optiond": "(D) a and b both",
+	"ans": "D"
+	},
+	{
+	"question": "Processed data of computer is called",
+	"optiona": "(A) Input",
+	"optionb": "(B) Output",
+	"optionc": "(C) Process ",
+	"optiond": "(D) All",
+	"ans": "A"
+
+	},
+	
+	{
+
+	"question": ".................... is processed in information by computer processor? ",
+	"optiona": "(A) Number",
+	"optionb": "(B) Processor",
+	"optionc": "(C) Input ",
+	"optiond": "(D) Data",
+	"ans": "D"
+		},
+	
+	{
+	"question": "Example of non-numeric data is ",
+	"optiona": "(A) Employee address ",
+	"optionb": "(B) Examination score ",
+	"optionc": "(C) Bank balance ",
+	"optiond": "(D) All of these",
+	"ans": "A"
+	
+	},
+	
+	{
+	"question": "The basic goal of computer process is to convert data into",
+	"optiona": "(A) Files",
+	"optionb": "(B) Tables",
+	"optionc": "(C) Information ",
+	"optiond": "(D) Graphs",
+	"ans": "C"
+		},
+	
+	{
+	"question": ".... represents raw facts. Whereas ....... is meaningful data",
+	"optiona": "(A) Information, reporting ",
+	"optionb": "(B) Data, information ",
+	"optionc": "(C) Information bits",
+	"optiond": "(D) Records, bytes ",
+	"ans": "B"
+	
+	},
+	
+	{
+	
+	"question": "Manipulating data to create information is known as.......",
+	"optiona": "(A) Information",
+	"optionb": "(B) Data ",
+	"optionc": "(C) Software Program ",
+	"optiond": "(D) System",
+	"ans": "A"
+	},
+	
+	{
+	"question": "The information processing cycle includes the following processes ....",
+	"optiona": "(A) input, processing, output, storage ",
+	"optionb": "(B) input, output, manipulation, arithmetic ",
+	"optionc": "(C) data, processing, printing, editing ",
+	"optiond": "(D) storage, display, data, information ",
+	"ans": "A"
+		},
+	
+	{
+	"question": "Where are data and programme stored when the processor uses them? ",
+	"optiona": "(A) Main memory ",
+	"optionb": "(B) Secondary memory ",
+	"optionc": "(C) Disk memory ",
+	"optiond": "(D) Programme memory",
+	"ans": "A"
+	},
+	
+	{
+	"question": "Which of the following retains the information it’s storing when the power to the system is turned off?",
+	"optiona": "(A)  CPU"  ,
+	"optionb": "(B)  ROM",
+	"optionc": "(C)  RAM",
+	"optiond": "(D)  DIMM",
+	"ans": "B"
+	}
+
+  ]
+}
